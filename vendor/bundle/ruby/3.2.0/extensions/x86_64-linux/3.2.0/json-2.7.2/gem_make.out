@@ -1,0 +1,16 @@
+current directory: /home/matthew/Projects/CW1_RubyOnRails/ToDoApp/vendor/bundle/ruby/3.2.0/gems/json-2.7.2/ext/json
+/usr/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/matthew/Projects/CW1_RubyOnRails/ToDoApp/vendor/bundle/ruby/3.2.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20241008-559242-ij84cv sitelibdir\=./.gem.20241008-559242-ij84cv clean
+
+current directory: /home/matthew/Projects/CW1_RubyOnRails/ToDoApp/vendor/bundle/ruby/3.2.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20241008-559242-ij84cv sitelibdir\=./.gem.20241008-559242-ij84cv
+make: Nothing to be done for 'all'.
+
+current directory: /home/matthew/Projects/CW1_RubyOnRails/ToDoApp/vendor/bundle/ruby/3.2.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20241008-559242-ij84cv sitelibdir\=./.gem.20241008-559242-ij84cv install
+
+current directory: /home/matthew/Projects/CW1_RubyOnRails/ToDoApp/vendor/bundle/ruby/3.2.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20241008-559242-ij84cv sitelibdir\=./.gem.20241008-559242-ij84cv clean
