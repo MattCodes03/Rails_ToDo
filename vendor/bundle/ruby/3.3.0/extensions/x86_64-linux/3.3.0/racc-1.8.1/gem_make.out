@@ -1,0 +1,18 @@
+current directory: /home/matthew/Projects/CW1_RubyOnRails/ToDoApp/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+/usr/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/matthew/Projects/CW1_RubyOnRails/ToDoApp/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20241016-123187-sr10rp sitelibdir\=./.gem.20241016-123187-sr10rp clean
+
+current directory: /home/matthew/Projects/CW1_RubyOnRails/ToDoApp/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20241016-123187-sr10rp sitelibdir\=./.gem.20241016-123187-sr10rp
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/matthew/Projects/CW1_RubyOnRails/ToDoApp/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20241016-123187-sr10rp sitelibdir\=./.gem.20241016-123187-sr10rp install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20241016-123187-sr10rp/racc
+
+current directory: /home/matthew/Projects/CW1_RubyOnRails/ToDoApp/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20241016-123187-sr10rp sitelibdir\=./.gem.20241016-123187-sr10rp clean

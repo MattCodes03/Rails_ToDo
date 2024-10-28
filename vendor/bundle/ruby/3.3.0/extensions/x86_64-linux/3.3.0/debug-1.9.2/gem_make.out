@@ -1,0 +1,19 @@
+current directory: /home/matthew/Projects/CW1_RubyOnRails/ToDoApp/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+/usr/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/matthew/Projects/CW1_RubyOnRails/ToDoApp/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20241016-123187-xgmd82 sitelibdir\=./.gem.20241016-123187-xgmd82 clean
+
+current directory: /home/matthew/Projects/CW1_RubyOnRails/ToDoApp/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20241016-123187-xgmd82 sitelibdir\=./.gem.20241016-123187-xgmd82
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/matthew/Projects/CW1_RubyOnRails/ToDoApp/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20241016-123187-xgmd82 sitelibdir\=./.gem.20241016-123187-xgmd82 install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20241016-123187-xgmd82/debug
+
+current directory: /home/matthew/Projects/CW1_RubyOnRails/ToDoApp/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20241016-123187-xgmd82 sitelibdir\=./.gem.20241016-123187-xgmd82 clean

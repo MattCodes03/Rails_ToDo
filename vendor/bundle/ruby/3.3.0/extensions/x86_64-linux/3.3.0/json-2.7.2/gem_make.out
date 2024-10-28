@@ -1,0 +1,16 @@
+current directory: /home/matthew/Projects/CW1_RubyOnRails/ToDoApp/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+/usr/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/matthew/Projects/CW1_RubyOnRails/ToDoApp/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20241016-123187-dpxndp sitelibdir\=./.gem.20241016-123187-dpxndp clean
+
+current directory: /home/matthew/Projects/CW1_RubyOnRails/ToDoApp/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20241016-123187-dpxndp sitelibdir\=./.gem.20241016-123187-dpxndp
+make: Nothing to be done for 'all'.
+
+current directory: /home/matthew/Projects/CW1_RubyOnRails/ToDoApp/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20241016-123187-dpxndp sitelibdir\=./.gem.20241016-123187-dpxndp install
+
+current directory: /home/matthew/Projects/CW1_RubyOnRails/ToDoApp/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20241016-123187-dpxndp sitelibdir\=./.gem.20241016-123187-dpxndp clean

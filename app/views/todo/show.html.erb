@@ -1,0 +1,11 @@
+<h1><%= @task.title %></h1>
+
+<p><%= @task.description %></p>
+<p>Completed: <%= @task.completed ? "Yes" : "No" %></p>
+
+<%= link_to 'Edit', edit_task_path(@task) %> |
+
+<%= form_with model: @task, method: :delete do %>
+  <%= submit_tag 'Delete Task', data: { confirm: 'Are you sure?' } %>
+<% end %>
+

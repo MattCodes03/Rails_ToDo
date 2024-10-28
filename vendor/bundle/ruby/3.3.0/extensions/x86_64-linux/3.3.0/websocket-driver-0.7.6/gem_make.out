@@ -1,0 +1,18 @@
+current directory: /home/matthew/Projects/CW1_RubyOnRails/ToDoApp/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+/usr/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/matthew/Projects/CW1_RubyOnRails/ToDoApp/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20241016-123187-2je6sm sitelibdir\=./.gem.20241016-123187-2je6sm clean
+
+current directory: /home/matthew/Projects/CW1_RubyOnRails/ToDoApp/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20241016-123187-2je6sm sitelibdir\=./.gem.20241016-123187-2je6sm
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/matthew/Projects/CW1_RubyOnRails/ToDoApp/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20241016-123187-2je6sm sitelibdir\=./.gem.20241016-123187-2je6sm install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20241016-123187-2je6sm
+
+current directory: /home/matthew/Projects/CW1_RubyOnRails/ToDoApp/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20241016-123187-2je6sm sitelibdir\=./.gem.20241016-123187-2je6sm clean

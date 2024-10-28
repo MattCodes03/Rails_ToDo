@@ -1,0 +1,18 @@
+current directory: /home/matthew/Projects/CW1_RubyOnRails/ToDoApp/vendor/bundle/ruby/3.3.0/gems/cgi-0.4.1/ext/cgi/escape
+/usr/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/matthew/Projects/CW1_RubyOnRails/ToDoApp/vendor/bundle/ruby/3.3.0/gems/cgi-0.4.1/ext/cgi/escape
+make DESTDIR\= sitearchdir\=./.gem.20241016-123187-vaf32f sitelibdir\=./.gem.20241016-123187-vaf32f clean
+
+current directory: /home/matthew/Projects/CW1_RubyOnRails/ToDoApp/vendor/bundle/ruby/3.3.0/gems/cgi-0.4.1/ext/cgi/escape
+make DESTDIR\= sitearchdir\=./.gem.20241016-123187-vaf32f sitelibdir\=./.gem.20241016-123187-vaf32f
+compiling escape.c
+linking shared-object cgi/escape.so
+
+current directory: /home/matthew/Projects/CW1_RubyOnRails/ToDoApp/vendor/bundle/ruby/3.3.0/gems/cgi-0.4.1/ext/cgi/escape
+make DESTDIR\= sitearchdir\=./.gem.20241016-123187-vaf32f sitelibdir\=./.gem.20241016-123187-vaf32f install
+/usr/bin/install -c -m 0755 escape.so ./.gem.20241016-123187-vaf32f/cgi
+
+current directory: /home/matthew/Projects/CW1_RubyOnRails/ToDoApp/vendor/bundle/ruby/3.3.0/gems/cgi-0.4.1/ext/cgi/escape
+make DESTDIR\= sitearchdir\=./.gem.20241016-123187-vaf32f sitelibdir\=./.gem.20241016-123187-vaf32f clean

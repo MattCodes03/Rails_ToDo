@@ -1,0 +1,18 @@
+current directory: /home/matthew/Projects/CW1_RubyOnRails/ToDoApp/vendor/bundle/ruby/3.3.0/gems/erb-4.0.4/ext/erb/escape
+/usr/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/matthew/Projects/CW1_RubyOnRails/ToDoApp/vendor/bundle/ruby/3.3.0/gems/erb-4.0.4/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20241016-123187-3fwvvz sitelibdir\=./.gem.20241016-123187-3fwvvz clean
+
+current directory: /home/matthew/Projects/CW1_RubyOnRails/ToDoApp/vendor/bundle/ruby/3.3.0/gems/erb-4.0.4/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20241016-123187-3fwvvz sitelibdir\=./.gem.20241016-123187-3fwvvz
+compiling escape.c
+linking shared-object erb/escape.so
+
+current directory: /home/matthew/Projects/CW1_RubyOnRails/ToDoApp/vendor/bundle/ruby/3.3.0/gems/erb-4.0.4/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20241016-123187-3fwvvz sitelibdir\=./.gem.20241016-123187-3fwvvz install
+/usr/bin/install -c -m 0755 escape.so ./.gem.20241016-123187-3fwvvz/erb
+
+current directory: /home/matthew/Projects/CW1_RubyOnRails/ToDoApp/vendor/bundle/ruby/3.3.0/gems/erb-4.0.4/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20241016-123187-3fwvvz sitelibdir\=./.gem.20241016-123187-3fwvvz clean
